@@ -6,9 +6,8 @@
 ![profile count](https://komarev.com/ghpvc/?username=AbhishekSinghDhadwal&color=red)&nbsp;
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
 -->
-### Hi there, Thanks for stopping byI'm Ambikesh.
-### 👨🏻‍💻 &nbsp;About Me
-
+### Hi there, Thanks for stopping by I'm Ambikesh.
+### 👨🏻‍💻&nbsp;About Me
 🎓 &nbsp;I'm currently pursuing M-Tech in Artificial Intelligence at Indian Institute of Technology, Jodhpur (2020-22).\
 🌱 &nbsp;I'm on track for learning more about deep learning,machine learning, computer vision.\
 💡 &nbsp; Previously I was working as techical contributor at Techtud.\
@@ -17,8 +16,10 @@
 ✉️ &nbsp;You can email me at ambikeshkumarsingh@gmail.com. I'll try to respond as soon as possible!
 <!--📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1R7R0fRKa3TIDOhKAMvwy7XNSuRAeUtIB/view?usp=sharing) for more details about work experience.-->
 
-###
-### 🛠 &nbsp;Tech Stack
+### 🔭&nbsp;2021 Goals
+
+
+### 🛠&nbsp;Tech Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 <!---![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -33,17 +34,18 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <!---![jUnit](https://img.shields.io/badge/jUnit%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;-->
-[![Collab](https://colab.research.google.com/assets/colab-badge.svg)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 <img alt="Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/>
+
 
 ### 📫 &nbsp; How to reach me:
 
 
 <a href="https://www.linkedin.com/in/ambikeshkumarsingh/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:ambikeshkumarsingh@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/abhi_1507"><img src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/imambikesh"><img src="https://img.shields.io/badge/-@imambikesh-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+
 
 <!--
 **AbhishekSinghDhadwal/AbhishekSinghDhadwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
