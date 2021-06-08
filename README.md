@@ -17,6 +17,10 @@
 📄 &nbsp;You can check my [Resume](https://github.com/ambikeshkumarsingh/ambikeshkumarsingh.github.io/blob/main/Ambikesh_Resume.pdf) for more details about work experience.
 
 ### 🔭&nbsp;2021 Goals
+:newspaper: Publish Deep learning paper \
+:trophy: Crack FAANG \
+:swimmer: Learn swimming \
+
 
 
 ### 🛠&nbsp;Tech Tools
