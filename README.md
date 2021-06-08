@@ -19,7 +19,7 @@
 ### 🔭&nbsp;2021 Goals
 :newspaper: Publish Deep learning paper \
 :trophy: Crack FAANG \
-:swimmer: Learn swimming \
+:swimmer: Learn swimming 
 
 
 
